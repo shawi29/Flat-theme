@@ -13,6 +13,7 @@
 .clearfix:after {
   clear: both;
 }
+<<<<<<< HEAD
 
 .bg-header{
  background-color: #34495e;
@@ -130,3 +131,51 @@
 
 
 
+=======
+.navbar {
+background-color: #34495E;
+font-size: 1.2em;
+border: none;
+}
+a {
+	color: #DADADA!important;
+	text-decoration: none;
+}
+.title{
+    background-color: #2ecc71;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+.breadcrumb{
+	background-color: #2ecc71;
+    padding-top: 7%;
+    font-size: 1.2em;
+    color:white;
+}
+.informacion{
+	background-color:#34495E;
+	color: white; 
+}
+footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #bdc3c7;
+  background-color: #313F4C;
+}
+footer a {
+  color: #bdc3c7;
+}
+footer a:hover {
+  color: #d9534f;
+}
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+footer ul > li {
+  display: inline-block;
+  margin-left: 15px;
+}
+>>>>>>> 31e360ec56b8fbb88b395d08dbf6d31d7851c216
