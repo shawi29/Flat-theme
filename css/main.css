@@ -13,17 +13,7 @@
 .clearfix:after {
   clear: both;
 }
-<<<<<<< HEAD
 
-.bg-header{
- background-color: #34495e;
- padding: 1% 0%;
-}
-.navbar-nav > li > a {
-  padding-bottom: 7px;
-  border-radius: 4px;
-  color: #bdc3c7;
-}
 
 /*section mkt*/
 .mkt{
@@ -196,10 +186,7 @@
   animation: fadeInUp 300ms linear 1200ms both;
 }
 
-
-
-=======
-.navbar {
+header {
 background-color: #34495E;
 font-size: 1.2em;
 border: none;
@@ -241,7 +228,7 @@ section.blog{
   padding-top: 4%;
 }
 
-.input-group, section.blog h3{
+.input-group, section.blog aside h3{
   padding-left: 4%;
 }
 
@@ -303,8 +290,18 @@ ul.pagination > li.active > a, ul.pagination > li:hover > a{
   border-color: #34495e;
   color: #fff !important;
 }
+
+p.bigger{
+  font-size: 1.5em;
+  padding: 1% 0%;
+}
+
+section.blog div.col-sm-8 button{
+  margin-top: 3%;
+}
 /*----------*/
 
+/*section information*/
 
 ul.arrow{
   list-style: none;
@@ -317,6 +314,8 @@ ul.arrow li::before {
   font-size: 10px;
   padding-right: 2%;
 }
+
+/*-------------*/
 footer {
   padding-top: 30px;
   padding-bottom: 30px;
