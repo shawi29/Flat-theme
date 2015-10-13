@@ -13,24 +13,25 @@
 .clearfix:after {
   clear: both;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
-.bg-header{
- background-color: #34495e;
- padding: 1% 0%;
+
+/* Navigator*/
+
+.navbar{
+  background-color: #34495e;
+  border: none;
+  padding: 1% 0%;
 }
-.navbar-nav > li > a {
-  padding-bottom: 7px;
-  border-radius: 4px;
+
+.navbar .nav > li > a{
   color: #bdc3c7;
+}  
+ 
+.navbar .nav > li > a:hover{
+  background-color: #313F4C;
+  color: #fff ;
 }
->>>>>>> 54bebf4ff8166d58196f31a54f2edd732c6b8391
-=======
-
->>>>>>> 8209774384fb2af1e6631be3ee1731479db52381
+/*-----nav end-------*/
 
 /*section mkt*/
 body{
@@ -420,8 +421,3 @@ footer ul > li {
   margin-left: 15px;
 }
 
-/* Navigator*/
-
-.navbar{
-  background-color: #34495e;
-}
