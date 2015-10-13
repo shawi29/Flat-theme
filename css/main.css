@@ -345,6 +345,10 @@ ul.pagination > li.active > a, ul.pagination > li:hover > a{
 .btn-social.btn-google-plus:hover {
   background: #e36957;
 }
+.btn-social{
+  border-radius: 100%;
+  margin: 5px;
+}
 /*END-ABAUT*/
 ul.arrow{
   list-style: none;
