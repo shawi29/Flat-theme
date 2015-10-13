@@ -312,11 +312,9 @@ section.blog div.col-sm-8 button{
   margin-top: 3%;
 }
 /*----------*/
-<<<<<<< HEAD
 
 /*section information*/
 
-=======
 /*PORTAFOLIO*/
 .portafolios{
   padding-top: 5%;
@@ -336,6 +334,10 @@ section.blog div.col-sm-8 button{
 }
 /*END-PORTAFOLI*/
 /*ABAUT*/
+.about-us{
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
 .btn-social.btn-facebook {
   background: #4f7dd4;
 }
@@ -362,10 +364,25 @@ section.blog div.col-sm-8 button{
 }
 .btn-social{
   border-radius: 100%;
-  margin: 5px;
+  color:white;
+  font-size: 100%;
 }
 /*END-ABAUT*/
->>>>>>> 54bebf4ff8166d58196f31a54f2edd732c6b8391
+/*contactus*/
+.formulario{
+  padding-top:4%;
+  padding-bottom: 4%;
+}
+/*end contactus*/
+/*servie*/
+.services{
+  padding-top:4%;
+  padding-bottom: 4%;
+}
+.separ{
+  padding-top: 3%;
+}
+/*servie end*/
 ul.arrow{
   list-style: none;
   padding-left: 0px;
