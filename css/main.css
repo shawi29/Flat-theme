@@ -228,14 +228,18 @@ body{
     font-size: 1.2em;
     color:white;
 }
+
+section.title ul.breadcrumb li a{
+  color: #bdc3c7;
+}
 .informacion{
 	background-color:#34495E;
 	color: white;
   padding: 3% 0% 5%; 
 }
 
-.informacion p, .informacion small, .informacion address{
-  color: #bdc3c7;
+.informacion p, .informacion small, .informacion address, .informacion ul.arrow li a, .informacion div.media span a{
+  color: #bdc3c7; 
 }
 
 
